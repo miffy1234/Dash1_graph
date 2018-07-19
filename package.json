@@ -1,0 +1,22 @@
+{
+  "name": "graph1-dash",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "highcharts": "6.1.1",
+    "html": "1.0.0",
+    "react": "16.3.2",
+    "react-dom": "16.3.2",
+    "react-highcharts": "16.0.2",
+    "react-scripts": "1.1.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
